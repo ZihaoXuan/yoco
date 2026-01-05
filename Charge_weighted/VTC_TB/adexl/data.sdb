@@ -1,0 +1,3379 @@
+<?xml version="1.0"?>
+<setupdb version="6">data
+	<active>Active Setup
+		<corners>
+			<corner enabled="1">_default</corner>
+			<corner enabled="0">MC_0_0
+				<vars>
+					<var>Vdc
+						<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+					</var>
+				</vars>
+				<models>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"mos_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"bjt_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"dio_tt"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"res_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"var_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"mom_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"ldmos_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"esd_tt"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"esd_dio_tt"</modelsection>
+					</model>
+				</models>
+			</corner>
+			<corner enabled="1">MC_N
+				<vars>
+					<var>Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+					</var>
+				</vars>
+				<models>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"mos_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"bjt_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"dio_tt"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"res_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"var_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"mom_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"ldmos_mc"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"esd_tt"</modelsection>
+					</model>
+					<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+						<modelsection>"esd_dio_tt"</modelsection>
+					</model>
+				</models>
+			</corner>
+		</corners>
+		<extensions>
+			<extension>Parasitics
+				<callback>_parSetupDBExtensionCB</callback>
+				<iconvalue></iconvalue>
+				<icontype></icontype>
+			</extension>
+		</extensions>
+		<currentmode>Single Run, Sweeps and Corners</currentmode>
+		<overwritehistory>0</overwritehistory>
+		<tests>
+			<test enabled="1">Charge_weighted:VTC_TB:1
+				<tool>ADE</tool>
+				<tooloptions>
+					<option>cell
+						<value>VTC_TB</value>
+					</option>
+					<option>lib
+						<value>Charge_weighted</value>
+					</option>
+					<option>sim
+						<value>spectre</value>
+					</option>
+					<option>view
+						<value>schematic</value>
+					</option>
+					<option>path
+						<value>$AXL_SETUPDB_DIR/test_states</value>
+					</option>
+					<option>state
+						<value>Charge_weighted:VTC_TB:1_active</value>
+					</option>
+				</tooloptions>
+				<origoptions>
+					<option>cell
+						<value>VTC_TB</value>
+					</option>
+					<option>lib
+						<value>Charge_weighted</value>
+					</option>
+					<option>sim
+						<value>spectre</value>
+					</option>
+					<option>view
+						<value>schematic</value>
+					</option>
+				</origoptions>
+				<outputs>
+					<output>/I11/net037
+						<evalType>point</evalType>
+					</output>
+					<output>/VTCO
+						<evalType>point</evalType>
+					</output>
+					<output>/I11/net028
+						<evalType>point</evalType>
+					</output>
+					<output>/I11/net049
+						<evalType>point</evalType>
+					</output>
+				</outputs>
+			</test>
+		</tests>
+		<vars>
+			<var enabled="1">Vdc
+				<value>{From/To}LinearStepCount:0:9:0.512{From/To}</value>
+				<dependentTests>
+					<dependentTest enabled="1" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+				</dependentTests>
+			</var>
+			<var enabled="1">num_cap
+				<value>{From/To}Linear:1:1:16{From/To}</value>
+				<dependentTests>
+					<dependentTest enabled="1" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+				</dependentTests>
+			</var>
+		</vars>
+		<overwritehistoryname>Interactive.0</overwritehistoryname>
+		<plottingoptions>
+			<plottingoption>plottingmode
+				<value>Replace</value>
+			</plottingoption>
+			<plottingoption>plottype
+				<value>None</value>
+			</plottingoption>
+			<plottingoption>usewaveformtemplate
+				<value>no</value>
+			</plottingoption>
+			<plottingoption>useMaestroPlottingTemplate
+				<value>yes</value>
+			</plottingoption>
+			<plottingoption>waveformtemplate
+				<value></value>
+			</plottingoption>
+			<plottingoption>allplottingtemplates
+				<value></value>
+			</plottingoption>
+			<plottingoption>defaultplottingtemplate
+				<value></value>
+			</plottingoption>
+		</plottingoptions>
+		<allcornersenabled>0</allcornersenabled>
+		<runoptions>
+			<mode>Monte Carlo Sampling
+				<runoption>mcmethod
+					<value>all</value>
+				</runoption>
+				<runoption>mcnumpoints
+					<value>200</value>
+				</runoption>
+				<runoption>mcnumbins
+					<value></value>
+				</runoption>
+				<runoption>mcStopEarly
+					<value>0</value>
+				</runoption>
+				<runoption>mcStopMethod
+					<value>Significance Test</value>
+				</runoption>
+				<runoption>samplingmode
+					<value>lhs</value>
+				</runoption>
+				<runoption>saveprocess
+					<value>1</value>
+				</runoption>
+				<runoption>savemismatch
+					<value>1</value>
+				</runoption>
+				<runoption>mcreferencepoint
+					<value>0</value>
+				</runoption>
+				<runoption>donominal
+					<value>0</value>
+				</runoption>
+				<runoption>saveallplots
+					<value>1</value>
+				</runoption>
+				<runoption>montecarloseed
+					<value></value>
+				</runoption>
+				<runoption>mcstartingrunnumber
+					<value></value>
+				</runoption>
+				<runoption>dumpParamMode
+					<value>yes</value>
+				</runoption>
+				<runoption>ignoreflag
+					<value>0</value>
+				</runoption>
+				<runoption>ignoremode
+					<value>default</value>
+				</runoption>
+			</mode>
+		</runoptions>
+		<allvarsdisabled>0</allvarsdisabled>
+	</active>
+	<history>History
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.6
+			<checkpoint>
+				<corners>
+					<corner enabled="0">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.6</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="1">Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>1</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>1</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 13 14:10:24 2022</timestamp>
+			<uuid>{1903b662-0079-4f6f-90e6-f587fc224561}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.6.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.6.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_141024319</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.6</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.6</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.6.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.6.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>Vdc
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">MonteCarlo.21
+			<checkpoint>
+				<corners>
+					<corner enabled="0">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Monte Carlo Sampling</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_MonteCarlo.21</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="1">Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>1</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>1</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 13 14:17:24 2022</timestamp>
+			<uuid>{ff9034d9-82f7-498d-a7ef-9c75803fa941}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/MonteCarlo.21.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/MonteCarlo.21.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_141724432</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/MonteCarlo.21</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/MonteCarlo.21</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/MonteCarlo.21.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/MonteCarlo.21.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>Vdc
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.7
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.7</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="0">Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="0" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var>num_cap
+						<value>{From/To}Linear:0:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 10:53:16 2022</timestamp>
+			<uuid>{0ed4f021-8c56-47dc-94c8-9da185b70be5}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.7.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.7.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_105316597</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.7</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.7</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.7.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.7.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>num_cap
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.8
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.8</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="1">Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="1" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var>num_cap
+						<value>{From/To}Linear:1:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 11:10:08 2022</timestamp>
+			<uuid>{322a528d-af08-4c9a-b4e1-334e2a9ba7b5}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.8.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.8.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_111008533</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.8</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.8</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.8.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.8.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>Vdc
+						<value>0.3</value>
+					</var>
+					<var>num_cap
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.9
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.9</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="0">Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="0" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var>num_cap
+						<value>{From/To}Linear:1:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 12:28:56 2022</timestamp>
+			<uuid>{b11824f3-f492-4030-a8f4-bbafff091062}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.9.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.9.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_122856093</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.9</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.9</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.9.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.9.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>num_cap
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.10
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.10</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="0">Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="0" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var>num_cap
+						<value>{From/To}Linear:1:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 12:34:51 2022</timestamp>
+			<uuid>{1ee192a4-d67c-4daf-bb45-14b2a08fe5b8}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.10.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.10.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_123451939</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.10</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.10</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.10.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.10.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>num_cap
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.11
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.11</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net049
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="0">Vdc
+						<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="0" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var>num_cap
+						<value>{From/To}Linear:1:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 12:35:50 2022</timestamp>
+			<uuid>{623502f8-4b4a-46aa-930d-4f819e1a8fa9}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.11.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.11.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_123550689</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.11</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.11</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.11.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.11.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>num_cap
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.12
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.12</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net049
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="1">Vdc
+						<value>{From/To}LinearStepCount:0:9:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="1" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var>num_cap
+						<value>{From/To}Linear:1:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 12:39:55 2022</timestamp>
+			<uuid>{0ceff1c0-cb9d-4bf9-b4cf-7d028085f9cf}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.12.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.12.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_123955145</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.12</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.12</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.12.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.12.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>Vdc
+						<value>0.3</value>
+					</var>
+					<var>num_cap
+						<value>0</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.13
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.13</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net049
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="1">Vdc
+						<value>{From/To}LinearStepCount:0:9:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="1" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var enabled="0">num_cap
+						<value>{From/To}Linear:1:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="0" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 12:50:23 2022</timestamp>
+			<uuid>{38610d28-266f-477a-8cbf-3be6bae63b52}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.13.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.13.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_125023070</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.13</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.13</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.13.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.13.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>Vdc
+						<value>0.3</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry assemblerOrExplorer="adexl" roOrView="view">Interactive.14
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+					<corner enabled="0">MC_0_0
+						<vars>
+							<var>Vdc
+								<value>388e-3 420e-3 452e-3 484e-3 516e-3 548e-3 580e-3 612e-3 644e-3 676e-3 708e-3 740e-3 772e-3 804e-3 836e-3 868e-3 900e-3</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+					<corner enabled="1">MC_N
+						<vars>
+							<var>Vdc
+								<value>{From/To}LinearStepCount:0:17:0.512{From/To}</value>
+							</var>
+						</vars>
+						<models>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:1
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"bjt_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:2
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"dio_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:3
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"res_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:4
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"var_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:5
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"mom_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:6
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"ldmos_mc"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:7
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_tt"</modelsection>
+							</model>
+							<model enabled="1">l0028hkcplus_io18_v1p0_rev3_spe.lib:8
+								<modeltest>All</modeltest>
+								<modelblock>Global</modelblock>
+								<modelfile>/netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg/../models/spectre/l0028hkcplus_io18_v1p0_rev3_spe.lib</modelfile>
+								<modelsection>"esd_dio_tt"</modelsection>
+							</model>
+						</models>
+					</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test enabled="1">Charge_weighted:VTC_TB:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>Charge_weighted:VTC_TB:1_none_Interactive.14</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>VTC_TB</value>
+							</option>
+							<option>lib
+								<value>Charge_weighted</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+						</origoptions>
+						<outputs>
+							<output>/I11/net037
+								<evalType>point</evalType>
+							</output>
+							<output>/VTCO
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net028
+								<evalType>point</evalType>
+							</output>
+							<output>/I11/net049
+								<evalType>point</evalType>
+							</output>
+						</outputs>
+					</test>
+				</tests>
+				<vars>
+					<var enabled="1">Vdc
+						<value>{From/To}LinearStepCount:0:9:0.512{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="1" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+					<var enabled="1">num_cap
+						<value>{From/To}Linear:1:1:16{From/To}</value>
+						<dependentTests>
+							<dependentTest enabled="1" omitted="0">Charge_weighted:VTC_TB:1</dependentTest>
+						</dependentTests>
+					</var>
+				</vars>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottingmode
+						<value>Replace</value>
+					</plottingoption>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>useMaestroPlottingTemplate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>allplottingtemplates
+						<value></value>
+					</plottingoption>
+					<plottingoption>defaultplottingtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<allcornersenabled>0</allcornersenabled>
+				<runoptions>
+					<mode>Monte Carlo Sampling
+						<runoption>mcmethod
+							<value>all</value>
+						</runoption>
+						<runoption>mcnumpoints
+							<value>200</value>
+						</runoption>
+						<runoption>mcnumbins
+							<value></value>
+						</runoption>
+						<runoption>mcStopEarly
+							<value>0</value>
+						</runoption>
+						<runoption>mcStopMethod
+							<value>Significance Test</value>
+						</runoption>
+						<runoption>samplingmode
+							<value>lhs</value>
+						</runoption>
+						<runoption>saveprocess
+							<value>1</value>
+						</runoption>
+						<runoption>savemismatch
+							<value>1</value>
+						</runoption>
+						<runoption>mcreferencepoint
+							<value>0</value>
+						</runoption>
+						<runoption>donominal
+							<value>0</value>
+						</runoption>
+						<runoption>saveallplots
+							<value>1</value>
+						</runoption>
+						<runoption>montecarloseed
+							<value></value>
+						</runoption>
+						<runoption>mcstartingrunnumber
+							<value></value>
+						</runoption>
+						<runoption>dumpParamMode
+							<value>yes</value>
+						</runoption>
+						<runoption>ignoreflag
+							<value>0</value>
+						</runoption>
+						<runoption>ignoremode
+							<value>default</value>
+						</runoption>
+					</mode>
+				</runoptions>
+				<allvarsdisabled>0</allvarsdisabled>
+				<sortVariableValues>0</sortVariableValues>
+			</checkpoint>
+			<timestamp>Jul 15 12:56:46 2022</timestamp>
+			<uuid>{0722f286-f381-4af0-9b4c-9a5ed8cc388d}</uuid>
+			<resultsname>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.14.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.14.rdb</simresults>
+			<rawdatadelstrategy>SaveAll
+				<simdatasavemode>All</simdatasavemode>
+			</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/cn8_xuanzihao_125646991</localpsfdir>
+			<psfdir>/netstorage/YJS/TeamKangYi/xuanzihao/simulation/Charge_weighted/VTC_TB/adexl/results/data/Interactive.14</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Charge_weighted/VTC_TB/adexl/results/data/Interactive.14</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted/VTC_TB/adexl/results/data/Interactive.14.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.14.log</runlogfile>
+			<schematicpoint>
+				<vars>
+					<var>Vdc
+						<value>0.3</value>
+					</var>
+					<var>num_cap
+						<value>8</value>
+					</var>
+				</vars>
+			</schematicpoint>
+			<test>all</test>
+		</historyentry>
+	</history>
+</setupdb>

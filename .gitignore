@@ -1,0 +1,25 @@
+# --- Cadence 核心忽略项 ---
+**/adexl/results/
+**/assembler/results/
+**/maestro/results/
+**/psf/
+**/spectre/
+*/*.rdb
+*/*.data
+*/*.log
+*/*.scs.db
+
+# --- 解决路径过长问题 (Interactive 运行数据) ---
+**/test_states/
+**/Interactive.*/
+**/history/
+
+# --- 临时文件与锁文件 ---
+*.lock
+*.cdslck*
+*~
+panic.log
+cds.lib.bak
+
+# --- 仿真输出目录 ---
+simulation/

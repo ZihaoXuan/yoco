@@ -1,0 +1,6 @@
+Test,Name,Yield,Min,Target,Max,Mean,Std Dev,Cpk,Errors
+Yield Estimate: 100 %(155 passed/155 pts)     Confidence Level: <not set>   Filter: <not set>,,,,,,,,,
+Charge_weighted:LCC_SUB256_TB:1,,,,,,,,,
+,"value(VT(""/I15/I26<127>/net7"") 8e-09)(summary)",100% (155/155),1.836e-3,,2.32e-3,2.035e-3,87.07e-6,,0
+,"value(VT(""/I15/I26<127>/net7"") 8e-09)_C2",100% (155/155),1.836e-3,info,2.32e-3,2.035e-3,87.07e-6,,0
+

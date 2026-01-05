@@ -1,0 +1,6 @@
+Test,Name,Yield,Min,Target,Max,Mean,Std Dev,Cpk,Errors
+Yield Estimate: 100 %(274 passed/274 pts)     Confidence Level: <not set>   Filter: <not set>,,,,,,,,,
+Charge_weighted:LCC_Simple:1,,,,,,,,,
+,"value(VT(""/VO"") 1e-08)(summary)",100% (274/274),433.4e-3,,441.3e-3,437.3e-3,1.34e-3,,0
+,"value(VT(""/VO"") 1e-08)_C1",100% (274/274),433.4e-3,info,441.3e-3,437.3e-3,1.34e-3,,0
+
