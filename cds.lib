@@ -1,0 +1,16 @@
+# File Created by  xuanzihao at Fri Sep 23 11:06:11 2022
+# assisted by CdsLibEditor
+DEFINE analogLib $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
+DEFINE ahdlLib $CDSHOME/tools/dfII/samples/artist/ahdlLib
+DEFINE basic $CDSHOME/tools/dfII/etc/cdslib/basic
+DEFINE smic18mmrf /netstorage/soft2/technology/SMIC180/pdk/oa/SPDK18MSE_1833_OA_CDS_V1.11_4/smic18mse_1833_1P6M_5Ia_1TMa1_MIM10_oa_cds_2019_01_15_v1.11_4/smic18mmrf
+DEFINE smic28hkmg /netstorage/soft2/technology/SMIC28HKCP/pdk/SPDK28HKCPlusLG_0918_OA_CDS_V1.0_REV3_0/smic28hkcPluslg_0918_1P8M_6Ic_2TMc_ALPA2_oa_cds_2018_12_05_v1.0_rev3_0/smic28hkmg
+#Removed by ddDeleteObj: DEFINE Chaege_weighted /netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Chaege_weighted
+DEFINE Charge_weighted /netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/Charge_weighted
+#Removed by ddDeleteObj: DEFINE TDC_4bit_28nm TDC_4bit_28nm
+#Removed by ddDeleteObj: DEFINE TDC_4bit_28nmII TDC_4bit_28nmII
+DEFINE TDC_4bit_28nm TDC_4bit_28nm
+DEFINE TDC_28nm_8_bit /netstorage/YJS/TeamKangYi/xuanzihao/CIMSRAM/Charge_Tomain/CV_CIM/TDC_28nm_8_bit
+DEFINE 10BADC /netstorage/YJS/TeamKangYi/xuanzihao/TNN_RRAM/Support/10BDADC/
+DEFINE clamp_mirror /netstorage/YJS/TeamKangYi/xuanzihao/TNN_RRAM/Support/clamp_mirror/
+DEFINE CIM_RAM /netstorage/YJS/TeamKangYi/xuanzihao/TNN_SRAM/CIM_RAM

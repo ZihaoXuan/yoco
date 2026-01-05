@@ -1,0 +1,5 @@
+#! usr\bin\tcsh
+echo "\033[33mset EDA environment.\033[0m"
+setdt ic6 spectre calibre
+echo "\033[33mrun ic6 spectre calibre!\033[0m"
+virtuoso &
